@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="characters/tankman/basic" icon="tank-knife" scale="1" singDuration="4" x="0" y="0" cameraX="240" cameraY="460" flipX="false" noAntialiasing="false" healthColor="#A1A1A1" vocalsFile="" vsliceHolds="true">
+	<assets>
+		<asset path="characters/tankman/basic"/>
+		<asset path="characters/tankman/bloody"/>
+	</assets>
+	<animations>
+		<anim id="redheads" symbol="tankman redheads plus knife" fps="24" loop="false" opponentSymbol="redheads" x="188" y="-46" playerX="0" playerY="0"/>
+		<anim id="idle" symbol="idle" fps="24" loop="false" opponentSymbol="idle knife" x="191" y="-40" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="up" fps="24" loop="false" opponentSymbol="up knife" x="187" y="-47" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="down" fps="24" loop="false" opponentSymbol="down knife" x="178" y="-34" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="right" fps="24" loop="false" opponentSymbol="right knife" x="197" y="-43" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="left" fps="24" loop="false" opponentSymbol="left knife" x="187" y="-45" playerX="0" playerY="0"/>
+	</animations>
+</character>

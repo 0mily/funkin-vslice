@@ -1,0 +1,7 @@
+// placeholder
+
+function onLoad(){
+
+    ghostTapping = false;
+    middleScroll = false;
+}

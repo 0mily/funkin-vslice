@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="pixel notas.png" width="256" height="32">
+	<SubTexture name="arrowDOWN000" x="0" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="arrowLEFT000" x="19" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="arrowRIGHT000" x="38" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="arrowUP000" x="57" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="blue hold end000" x="228" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="blue hold piece000" x="237" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="blue000" x="0" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="down confirm000" x="76" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="down press000" x="95" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="green hold end000" x="228" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="green hold piece000" x="237" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="green000" x="57" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="left confirm000" x="114" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="left press000" x="133" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="purple hold end000" x="228" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="purple hold piece000" x="237" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="purple000" x="19" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="red hold end000" x="228" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="red hold piece000" x="237" y="0" width="7" height="17" frameX="-0" frameY="-0" frameWidth="7" frameHeight="17"/>
+	<SubTexture name="red000" x="38" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="right confirm000" x="152" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="right press000" x="171" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="up confirm000" x="190" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="up press000" x="209" y="0" width="17" height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+</TextureAtlas>

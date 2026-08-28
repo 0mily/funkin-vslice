@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "mom",
+	"position": [39, 30],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.9,
+	"confirm_anim": "confirm"
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="MOMMY MUST MURDER" weekName="Week 4" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="mom" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="Satin panties" icon="mom" color="#CE4999"/>
+    <song name="High" icon="mom" color="#CE4999"/>
+    <song name="M.I.L.F" icon="mom" color="#CE4999"/>
+  </songs>
+</level>

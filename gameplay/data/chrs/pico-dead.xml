@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="characters/pico/death" icon="pico" scale="1" singDuration="4" x="70" y="40" cameraX="250" cameraY="500" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true">
+	<assets>
+		<asset path="characters/pico/death"/>
+	</assets>
+	<animations>
+		<anim id="firstDeath" symbol="Death Intro" fps="24" loop="false" playerSymbol="Death Intro" x="0" y="0" playerX="275" playerY="5"/>
+		<anim id="deathConfirm" symbol="Death Confirm" fps="24" loop="false" playerSymbol="Death Confirm" x="0" y="0" playerX="275" playerY="5"/>
+		<anim id="deathLoop" symbol="Death Loop" fps="24" loop="true" playerSymbol="Death Loop" x="0" y="0" playerX="275" playerY="5"/>
+	</animations>
+</character>

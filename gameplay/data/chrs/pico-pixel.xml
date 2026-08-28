@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/pixel" icon="pico-pixel" scale="6" singDuration="4" x="0" y="320" cameraX="270" cameraY="-60" flipX="true" noAntialiasing="true" healthColor="#88FF58" vocalsFile="" vsliceHolds="true" isEditor_Icons="picoIcon" isEditor_Name="Pico (Pixel)">
+	<assets>
+		<asset path="chrs/pico/pixel"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="idle" fps="24" loop="false" x="7" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFTmiss" symbol="miss-left" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUPmiss" symbol="miss-up" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="up" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="right" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHTmiss" symbol="miss-right" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="down" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWNmiss" symbol="miss-down" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="hey" symbol="hey" fps="10" loop="false" playerSymbol="hey" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="left" fps="24" loop="false" playerSymbol="left" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

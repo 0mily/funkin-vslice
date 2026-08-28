@@ -1,0 +1,135 @@
+import backend.lists.Character;
+
+class CharacterList extends Character
+{
+	public function new()
+	{
+		super();
+	}
+
+	public function getCategories():Array<Dynamic>
+    {
+        return [none(), bfs(), gfs(), picos(), nenes(), week1(), week2(), week4(), week5(), week6(), week7(), weekend1(), specialCollab1(), week8(), dead()];
+    }
+
+    public function none():Dynamic
+    {
+        return {
+            category: "none",
+            names: []
+        };
+    }
+
+    public function bfs():Dynamic
+    {
+        return {
+            category: "BFs",
+            names: ["bf", "bf-car", "bf-christmas", "bf-pixel", "bf-gf", "bf-bro"]
+        };
+    }
+
+    public function gfs():Dynamic
+    {
+        return {
+            category: "GFs",
+            names: ["gf", "gf-car", "gf-christmas", "gf-pixel", "gf-tank", "gf-bro"]
+        };
+    }
+
+    public function picos():Dynamic
+    {
+        return {
+            category: "Picos",
+            names: ["pico", "pico-blazin", "pico-car (predict)", "pico-christmas", "pico-pixel", "pico-nene"]
+        };
+    }
+
+    public function nenes():Dynamic
+    {
+        return {
+            category: "Nenes",
+            names: ["nene", "nene-car", "nene-christmas", "nene-pixel", "nene-tank"]
+        };
+    }
+
+    public function week1():Dynamic
+    {
+        return {
+            category: "Week 1",
+            names: ["dad"]
+        };
+    }
+
+    public function week2():Dynamic
+    {
+        return {
+            category: "Week 2",
+            names: ["spooky", "monster"]
+        };
+    }
+
+    public function week4():Dynamic
+    {
+        return {
+            category: "Week 4",
+            names: ["mom-car", "mom"]
+        };
+    }
+
+    public function week5():Dynamic
+    {
+        return {
+            category: "Week 5",
+            names: ["parents", "monster-christmas"]
+        };
+    }
+
+    public function week6():Dynamic
+    {
+        return {
+            category: "Week 6",
+            names: ["senpai", "senpai-angry", "spirit"]
+        };
+    }
+
+    public function week7():Dynamic
+    {
+        return {
+            category: "Week 7",
+            names: ["tankman", "gf-pico"]
+        };
+    }
+
+    public function weekend1():Dynamic
+    {
+        return {
+            category: "Weekend 1",
+            names: ["darnell", "darnell-blazin"]
+        };
+    }
+
+    public function specialCollab1():Dynamic
+    {
+        return {
+            category: "SP. Collab 1",
+            names: ["sakura", "yunjin", "kazuha", "chaewon", "eunchae"]
+        };
+    }
+
+    public function week8():Dynamic
+    {
+        return {
+            category: "Week 8",
+            names: ["experiment"]
+        };
+    }
+
+    public function dead():Dynamic // this one you NEED to make it "dead" for the chart editor understands
+    {
+        return {
+            category: "Dead",
+
+            names: ["bf-dead", "pico-dead", "bfPixel-dead", "picoPixel-dead", "picoBomb-dead", "picoBlazin-dead", "bfFakeOut-dead"]
+        };
+    }
+}

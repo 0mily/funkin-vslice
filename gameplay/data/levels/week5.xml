@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="RED SNOW" weekName="Week 5" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="parents-xmas" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="cocoa" icon="parents" color="#D5416D"/>
+    <song name="eggnog" icon="parents" color="#D54758"/>
+    <song name="winter horrorland" icon="monster" color="#E5000F"/>
+  </songs>
+</level>

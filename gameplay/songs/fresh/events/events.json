@@ -1,0 +1,204 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Set GF Speed", "4", ""]
+			]
+		],
+		[
+			2000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			4000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			6000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			8000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Set GF Speed", "2", ""]
+			]
+		],
+		[
+			10000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			12000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			14000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			16000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			18000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			20000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			22000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"],
+				["Set GF Speed", "4", ""]
+			]
+		],
+		[
+			24000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Set GF Speed", "1", ""]
+			]
+		],
+		[
+			28000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			32000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			36000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			40000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Set GF Speed", "2", ""]
+			]
+		],
+		[
+			42000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			44000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			46000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			48000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			50000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			52000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			54000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			56000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Set GF Speed", "1", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			64000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			68000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			72000,
+			[
+				["Set GF Speed", "4", ""],
+				["Focus Camera", "gf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			74000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			76000,
+			[
+				["Focus Camera", "gf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			78000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

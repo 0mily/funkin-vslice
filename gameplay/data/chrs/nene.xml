@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/nene/chr/main" icon="nene" scale="1" singDuration="4" x="60" y="0" cameraX="0" cameraY="0" flipX="false" noAntialiasing="false" healthColor="#A1A1A1" vocalsFile="" vsliceHolds="false" isEditor_Icons="" isEditor_Name="Nene">
+	<assets>
+		<asset path="chrs/nene/chr/main"/>
+	</assets>
+	<animations>
+		<anim id="danceLeft" symbol="Idle0" fps="24" loop="false" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
+		<anim id="danceRight" symbol="Idle0" fps="24" loop="false" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" opponentIndices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
+		<anim id="raiseKnife" symbol="KnifeRaise0" fps="24" loop="false" opponentSymbol="Knife Raise" x="-2" y="0" playerX="-2" playerY="0"/>
+		<anim id="lowerKnife" symbol="KnifeLower0" fps="24" loop="false" opponentSymbol="Knife Lower" x="-2" y="0" playerX="-2" playerY="0" indices="0,1,2,3,4,5,6,7,8,9" opponentIndices="0,1,2,3,4,5,6,7,8,9"/>
+		<anim id="laughCutscene" symbol="Laugh0" fps="24" loop="false" opponentSymbol="Laugh" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11"/>
+		<anim id="combo200" symbol="ComboFawn0" fps="24" loop="false" opponentSymbol="Fawn" x="6" y="5" playerX="6" playerY="5" indices="0,1,2,3,4,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6" opponentIndices="0,1,2,3,4,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6"/>
+		<anim id="combo50" symbol="ComboCheer0" fps="24" loop="false" opponentSymbol="Cheer" x="-22" y="0" playerX="-22" playerY="0"/>
+		<anim id="drop70" symbol="Laugh0" fps="24" loop="false" opponentSymbol="Laugh" x="-2" y="-1" playerX="-2" playerY="-1" indices="0,1,2,3,4,5,6,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11,7,8,9,10,11"/>
+		<anim id="idleKnife" symbol="KnifeIdle0" fps="24" loop="false" opponentSymbol="Idle (holding Knife)" x="-2" y="0" playerX="-2" playerY="0" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10"/>
+		<anim id="idleKnife-loop" symbol="Idle (holding Knife)" fps="24" loop="false" opponentSymbol="Idle (holding Knife)" x="-2" y="0" playerX="-2" playerY="0" indices="10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10" opponentIndices="10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10"/>
+	</animations>
+</character>

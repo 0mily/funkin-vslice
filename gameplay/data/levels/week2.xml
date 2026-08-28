@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="SPOOKY MONTH!" weekName="Week 2" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="spooky" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="Spookeez" icon="spooky" color="#F68C28"/>
+    <song name="South" icon="spooky" color="#F68C28"/>
+    <song name="Monster" icon="monster" color="#F6DA4D"/>
+  </songs>
+</level>

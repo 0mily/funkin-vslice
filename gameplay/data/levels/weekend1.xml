@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="due debts" weekName="Weekend 1" background="weekend1" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="darnell" boyfriend="pico-player" girlfriend="nene"/>
+  <songs>
+    <song name="Darnell" icon="darnell" color="#6F3EE7"/>
+    <song name="Lit Up" icon="darnell" color="#713FE7"/>
+    <song name="2hot" icon="darnell" color="#713FE7"/>
+    <song name="Blazin&apos;" icon="darnell" color="#713FE7"/>
+  </songs>
+</level>

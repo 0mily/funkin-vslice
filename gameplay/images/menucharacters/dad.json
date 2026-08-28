@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "dad",
+	"position": [24, 10],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "confirm"
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="PICO" weekName="Week 3" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="pico" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="Pico" icon="pico" color="#8CC13C"/>
+    <song name="Philly nice" icon="pico" color="#8CC13C"/>
+    <song name="Blammed" icon="pico" color="#8CC13C"/>
+  </songs>
+</level>

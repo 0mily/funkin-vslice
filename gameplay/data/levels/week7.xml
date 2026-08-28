@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="TANKMAN" weekName="Week 7" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="tankman" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="ugh" icon="tankman" color="#FF7424"/>
+    <song name="guns" icon="tankman" color="#FF7424"/>
+    <song name="stress" icon="tankman" color="#FF7424"/>
+  </songs>
+</level>

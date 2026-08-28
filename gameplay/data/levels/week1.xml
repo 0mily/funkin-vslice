@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="DADDY DEAREST" weekName="Week 1" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="dad" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="Bopeebo" icon="dad" color="#9271FD"/>
+    <song name="Fresh" icon="dad" color="#9271FD"/>
+    <song name="Dad Battle" icon="dad" color="#9271FD"/>
+  </songs>
+</level>

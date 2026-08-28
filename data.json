@@ -1,0 +1,11 @@
+{
+    "name": "Friday Night Funkin' [WIP]",
+    "description": "The original FNF game, ported to ViroViroIce Engine.\n\nIt contains all the menus, characters, and songs from the original game, as well as some new features and improvements.",
+    "version": "0.8.4",
+    "author": "Funkin' Crew",
+    "addons":
+    {
+        "allowAddons": true,
+        "addonPrefix": "fnfvslice_"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "senpai",
+	"position": [99, -46],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.75,
+	"confirm_anim": "confirm"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/senpai/main" icon="senpai-angry" scale="6" singDuration="4" x="150" y="360" cameraX="-330" cameraY="-370" flipX="false" noAntialiasing="true" healthColor="#FFAA6F" vocalsFile="" vsliceHolds="true" isEditor_Icons="senpaipixel" isEditor_Name="Senpai (Angry)">
+	<assets>
+		<asset path="chrs/senpai/main"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Angry Senpai Idle" fps="24" loop="false" x="1" y="0" playerX="1" playerY="0"/>
+		<anim id="singUP" symbol="Angry Senpai UP NOTE" fps="24" loop="false" x="7" y="36" playerX="1" playerY="15"/>
+		<anim id="singLEFT" symbol="Angry Senpai LEFT NOTE" fps="24" loop="false" x="25" y="6" playerX="11" playerY="2"/>
+		<anim id="singRIGHT" symbol="Angry Senpai RIGHT NOTE" fps="24" loop="false" x="1" y="0" playerX="1" playerY="0"/>
+		<anim id="singDOWN" symbol="Angry Senpai DOWN NOTE" fps="24" loop="false" x="7" y="6" playerX="4" playerY="3"/>
+	</animations>
+</character>

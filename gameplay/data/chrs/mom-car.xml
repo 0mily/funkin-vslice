@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/parents/mom/main" icon="mom" scale="1" singDuration="4" x="0" y="0" cameraX="240" cameraY="270" flipX="false" noAntialiasing="false" healthColor="#D8558E" vocalsFile="" vsliceHolds="true" isEditor_Icons="mompixel" isEditor_Name="Mommy Mearest">
+	<assets>
+		<asset path="chrs/parents/mom/main"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Mom Idle" fps="24" loop="false" playerSymbol="idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="Mom Left Pose" fps="24" loop="false" playerSymbol="left" x="256" y="-16" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="MOM DOWN POSE" fps="24" loop="false" playerSymbol="down" x="23" y="-147" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="Mom Up Pose" fps="24" loop="false" playerSymbol="up" x="39" y="97" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="Mom Pose Left" fps="24" loop="false" playerSymbol="right" x="-47" y="-30" playerX="0" playerY="0"/>
+		<anim id="idle-loop" symbol="Mom Idle" fps="24" loop="true" opponentSymbol="Mom Idle" x="0" y="0" playerX="0" playerY="0" indices="7,8,9,10" opponentIndices="11,12,13"/>
+	</animations>
+</character>

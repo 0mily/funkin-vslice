@@ -1,0 +1,220 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			9600,
+			[
+				["Focus Camera", "gf, 65, 20", "classic, 0"]
+			]
+		],
+		[
+			14400,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			18000,
+			[
+				["Lyrics Event", "That's how you do it!", ""],
+				["Hey!", "gf", "1"]
+			]
+		],
+		[
+			18000,
+			[
+				["Lyrics Event", "That's how you do it!", ""],
+				["Hey!", "gf", "1"]
+			]
+		],
+		[
+			18600,
+			[
+				["Hey!", "bf", "1"]
+			]
+		],
+		[
+			18600,
+			[
+				["Hey!", "bf", "1"]
+			]
+		],
+		[
+			19200,
+			[
+				["Lyrics Event", "", "classic, 0"]
+			]
+		],
+		[
+			19200,
+			[
+				["Focus Camera", "gf, 65, 20", "classic, 0"],
+				["Lyrics Event", "", "classic, 0"]
+			]
+		],
+		[
+			24000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			27600,
+			[
+				["Lyrics Event", "That's how you do it!", ""],
+				["Hey!", "gf", "1"]
+			]
+		],
+		[
+			27600,
+			[
+				["Lyrics Event", "That's how you do it!", ""],
+				["Hey!", "gf", "1"]
+			]
+		],
+		[
+			28200,
+			[
+				["Hey!", "bf", "1"]
+			]
+		],
+		[
+			28200,
+			[
+				["Hey!", "bf", "1"]
+			]
+		],
+		[
+			28800,
+			[
+				["Lyrics Event", "", "classic, 0"]
+			]
+		],
+		[
+			28800,
+			[
+				["Focus Camera", "gf, 65, 20", "classic, 0"],
+				["Lyrics Event", "", "classic, 0"]
+			]
+		],
+		[
+			33600,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			38400,
+			[
+				["Focus Camera", "gf, 65, 20", "classic, 0"]
+			]
+		],
+		[
+			43200,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			48000,
+			[
+				["Focus Camera", "gf, 65, 20", "classic, 0"]
+			]
+		],
+		[
+			50400,
+			[
+				["Focus Camera", "bf, -40, -20", "classic, 0"]
+			]
+		],
+		[
+			52200,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			52800,
+			[
+				["Camera Zoom", "bf, 4, -20", "classic, 0"]
+			]
+		],
+		[
+			52800,
+			[
+				["Camera Zoom", "bf, 4, -20", "classic, 0"]
+			]
+		],
+		[
+			53400,
+			[
+				["Camera Zoom", "1.1, 4", "OG, nll"]
+			]
+		],
+		[
+			54000,
+			[
+				["Camera Zoom", "1.15, 4", "OG, nll"]
+			]
+		],
+		[
+			54600,
+			[
+				["Camera Zoom", "1.2, 4", "OG, nll"]
+			]
+		],
+		[
+			55200,
+			[
+				["Camera Zoom", "1.1, 4", "OG, nll"]
+			]
+		],
+		[
+			55800,
+			[
+				["Camera Zoom", "1, 4", "OG, nll"],
+				["Camera Angle", "game, 1", "expoOut, 4"]
+			]
+		],
+		[
+			56400,
+			[
+				["Camera Zoom", "1.05, 4", "OG, nll"],
+				["Camera Angle", "game, -1", "expoOut, 4"]
+			]
+		],
+		[
+			57000,
+			[
+				["Camera Zoom", "1.15, 4", "OG, nll"],
+				["Camera Angle", "game, 2", "expoOut, 4"]
+			]
+		],
+		[
+			57600,
+			[
+				["Camera Zoom", "1.05, 8", "expoOut, nll"],
+				["Camera Angle", "game, 0, reset", "expoOut, 8"]
+			]
+		],
+		[
+			57600,
+			[
+				["Camera Zoom", "1.05, 8", "expoOut, nll"],
+				["Camera Angle", "game, 0, reset", "expoOut, 8"]
+			]
+		],
+		[
+			58200,
+			[
+				["Change Scroll Speed GOOD", "3.5", "1"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level storyName="LE SSERAFIM" weekName="spaghetti" background="" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
+  <characters opponent="spaghetti" boyfriend="bf" girlfriend="gf"/>
+  <songs>
+    <song name="Spaghetti" icon="yunjin" color="#BA0071"/>
+  </songs>
+</level>

@@ -1,0 +1,69 @@
+function onCreate()
+{
+    applyNoteStyle();
+}
+
+function applyNoteStyle()
+{
+    var pixel:Bool = isSenpai();
+
+    noteSkins(pixel);
+    noteColors(pixel);
+}
+
+function isSenpai():Bool
+{
+    var name:String = dad.curCharacter.toLowerCase();
+    return name == 'senpai' || name == 'senpai-angry' || name == 'spirit';
+}
+
+function noteSkins(pixel:Bool)
+{
+    if (pixel)
+    {
+        //noteSplash.skin('vslice-pixel');
+        notes.skin('pixel', 'all');
+    }
+    else
+    {
+        noteSplash.skin('vslice');
+        notes.skin('vslice', 'all');
+    }
+}
+
+function noteColors(pixel:Bool)
+{
+    // Normal colors
+    var leftR = 'FF63CB'; var downR = '00FFFF';
+    var leftG = 'FFFFFF'; var downG = 'FFFFFF';
+    var leftB = '3C1F56'; var downB = '1542B7';
+
+    var upR = '12FA05'; var rightR = 'F9393F';
+    var upG = 'FFFFFF'; var rightG = 'FFFFFF';
+    var upB = '0A4447'; var rightB = '651038';
+
+    if (pixel)
+    {
+        // Pixel colors
+        leftR = 'E276FF';  leftG = 'FFF9FF';  leftB = '60008D';
+        downR = '3DCAFF';  downG = 'F4FFFF';  downB = '003060';
+        upR = '71E300';    upG = 'F6FFE6';    upB = '003100';
+        rightR = 'FF884E'; rightG = 'FFFAF5'; rightB = '6C0000';
+    }
+
+    setLaneColors(0, leftR, leftG, leftB);
+    setLaneColors(1, downR, downG, downB);
+    setLaneColors(2, upR, upG, upB);
+    setLaneColors(3, rightR, rightG, rightB);
+}
+
+function setLaneColors(index:Int, r:String, g:String, b:String)
+{
+    notes[index].r = r;
+    notes[index].g = g;
+    notes[index].b = b;
+
+    notes[index + 4].r = r;
+    notes[index + 4].g = g;
+    notes[index + 4].b = b;
+}

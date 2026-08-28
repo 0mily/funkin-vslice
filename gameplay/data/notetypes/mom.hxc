@@ -1,0 +1,7 @@
+function onLoad() { 
+	for (note in unspawnNotes) {
+		if (note.noteType == "mom") {
+			note.animSuffix = "-mom"; // note made specially for Week 5.
+		}
+	}
+}

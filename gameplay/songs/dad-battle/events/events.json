@@ -1,0 +1,138 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			10666.6666666667,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			13333.3333333333,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			16000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			18666.6666666667,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			21333.3333333333,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			26666.6666666667,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			32000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			41333.3333333333,
+			[
+				["Focus Camera", "dad, 140, 90", "classic, 0"]
+			]
+		],
+		[
+			42666.6666666667,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			48000,
+			[
+				["Camera Module Bop", "1, beat", "0.015, 0.03"]
+			]
+		],
+		[
+			52000,
+			[
+				["Camera Module Bop", "1, step", "0.015, 0.01"]
+			]
+		],
+		[
+			53333.3333333334,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Camera Module Bop", "1, beat", ""]
+			]
+		],
+		[
+			56000,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			58666.6666666667,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			61333.3333333334,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			64000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			69333.3333333334,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			74666.6666666667,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			77333.3333333333,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			80000,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			82666.6666666667,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
