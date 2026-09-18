@@ -6,6 +6,6 @@
     "addons":
     {
         "allowAddons": true,
-        "addonPrefix": "fnfvslice_"
+        "addonPrefix": "vslice_"
     }
 }

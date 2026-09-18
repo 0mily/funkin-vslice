@@ -1,0 +1,10 @@
+{
+	"frame_size": [32, 32],
+	"bitmap_size": [150, 150],
+	"anti_aliasing": false,
+	"pivot": "center",
+
+	"animated": false,
+	"tag_toNeutral": "normal",
+	"tag_toDying": "death"
+}

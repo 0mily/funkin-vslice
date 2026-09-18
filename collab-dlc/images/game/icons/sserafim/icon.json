@@ -1,0 +1,9 @@
+{ // wip
+	"frame_size": [150, 150],
+	"anti_aliasing": true,
+	"pivot": "center",
+
+	"animated": false,
+	"tag_toNeutral": "normal",
+	"tag_toDying": "death"
+}
