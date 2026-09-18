@@ -1,9 +1,9 @@
-function onCreatePost()
+function onLoadPost()
     HealthBarColor()
     Functionalities()
 end
 
-function HealthBarColor()
+function HealthBarColor() -- modding
     local OpponentColor = 'FF0000'
     local PlayerColor = '66FF33'
     setHealthBarColors(OpponentColor, PlayerColor)
