@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="characters/pico/basic-animations" icon="pico" scale="1" singDuration="4" x="70" y="40" cameraX="30" cameraY="520" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true" isEditor_Icons="picoPixel" isEditor_Name="Pico">
+<character assetPath="chrs/pico/main/main" icon="pico" scale="1" singDuration="4" x="70" y="40" cameraX="30" cameraY="520" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true" isEditor_Icons="picoPixel" isEditor_Name="Pico">
 	<assets>
-		<asset path="characters/pico/basic-animations"/>
-		<asset path="characters/pico/playable-animations"/>
-		<asset path="characters/pico/death"/>
+		<asset path="chrs/pico/main/main"/>
+		<asset path="chrs/pico/main-player"/>
+		<asset path="chrs/pico/dead"/>
 	</assets>
 	<animations>
 		<anim id="singLEFT" symbol="Left" fps="24" loop="false" opponentSymbol="Right" playerSymbol="Left" x="315" y="-221" playerX="177" playerY="-194" indices="0,1,2,3,4" opponentIndices="0,1,2,3,4" playerIndices="0,1,2,3,4"/>
