@@ -9,18 +9,6 @@
 			]
 		],
 		[
-			774.193548387097,
-			[
-				["Lyrics Event", "It says gullible behind you.", "Other, ", "20", "0, 0", "better-vcr.ttf", "0.6", "#FFFFFF", ""]
-			]
-		],
-		[
-			1161.29032258065,
-			[
-				["Play Animation", "turnBack", "gf"]
-			]
-		],
-		[
 			3096.77419354839,
 			[
 				["Focus Camera", "bf, 0, 0", "classic, 0"]
@@ -192,6 +180,12 @@
 			120773.64516129,
 			[
 				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			123870.967741935,
+			[
+				["Play Animation", "cheer", "bf"]
 			]
 		]
 	],
