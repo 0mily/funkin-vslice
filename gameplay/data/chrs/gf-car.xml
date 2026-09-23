@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/gf/main-car" icon="gf" scale="1" singDuration="4" x="-210" y="-320" cameraX="660" cameraY="370" flipX="false" noAntialiasing="false" healthColor="#A5004D" vocalsFile="" vsliceHolds="true" isEditor_Icons="gfPixel" isEditor_Name="Girlfriend (Car)">
+<character assetPath="chrs/gf/car" icon="gf" scale="1" singDuration="6.1" x="0" y="7" cameraX="394" cameraY="218" flipX="false" noAntialiasing="false" healthColor="#A5004D" vocalsFile="" vsliceHolds="true" isEditor_Icons="gfpixel" isEditor_Name="Girlfriend [Car]">
 	<assets>
-		<asset path="chrs/gf/main-car"/>
+		<asset path="chrs/gf/car"/>
 	</assets>
 	<animations>
-		<anim id="danceLeft" symbol="GF Dancing Beat" fps="24" loop="false" x="-149" y="-302" playerX="521" playerY="-302" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
-		<anim id="danceRight" symbol="GF Dancing Beat" fps="24" loop="false" x="-149" y="-302" playerX="521" playerY="-302" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
-		<anim id="duck" symbol="Duck" fps="24" loop="false" opponentSymbol="Duck" x="-143" y="-302" playerX="-143" playerY="-302"/>
+		<anim id="danceLeft" symbol="Idle" fps="24" loop="false" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
+		<anim id="danceRight" symbol="Idle" fps="24" loop="false" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" opponentIndices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
+		<anim id="danceLeft-loop" symbol="Idle" fps="24" loop="true" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0" indices="10,11,12,25,26,27" opponentIndices="10,11,12,25,26,27"/>
+		<anim id="danceRight-loop" symbol="Idle" fps="24" loop="true" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0" indices="10,11,12,25,26,27" opponentIndices="10,11,12,25,26,27"/>
+		<anim id="duck" symbol="Duck" fps="24" loop="false" opponentSymbol="Duck" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3" opponentIndices="0,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3"/>
 	</animations>
 </character>

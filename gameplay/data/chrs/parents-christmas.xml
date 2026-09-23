@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/parents/xmas" icon="parents" scale="1" singDuration="6.1" x="-507" y="-1" cameraX="450" cameraY="394" flipX="false" noAntialiasing="false" healthColor="#C45EAE" vocalsFile="" vsliceHolds="true" isEditor_Icons="parentspixel" isEditor_Name="Parents">
+	<assets>
+		<asset path="chrs/parents/xmas"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Parent Christmas Idle" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="idle-loop" symbol="Parent Christmas Idle" fps="24" loop="true" x="0" y="0" playerX="0" playerY="0" indices="10,11,12"/>
+		<anim id="singLEFT" symbol="Parent Left Note Dad" fps="24" loop="false" x="-24" y="30" playerX="-24" playerY="30"/>
+		<anim id="singLEFT-loop" symbol="Parent Left Note Dad" fps="24" loop="true" x="-24" y="30" playerX="-24" playerY="30" indices="4,5,6,7,8,9,10,11,12,13,14"/>
+		<anim id="singDOWN" symbol="Parent Down Note Dad" fps="24" loop="false" x="-38" y="-16" playerX="-38" playerY="-16"/>
+		<anim id="singDOWN-loop" symbol="Parent Down Note Dad" fps="24" loop="true" x="-38" y="-16" playerX="-38" playerY="-16" indices="4,5,6,7,8,9,10,11,12,13"/>
+		<anim id="singUP" symbol="Parent Up Note Dad" fps="24" loop="false" x="-49" y="28" playerX="-49" playerY="28"/>
+		<anim id="singUP-loop" symbol="Parent Up Note Dad" fps="24" loop="true" x="-49" y="28" playerX="-49" playerY="28" indices="4,5,6,7,8,9,10,11,12"/>
+		<anim id="singRIGHT" symbol="Parent Right Note Dad" fps="24" loop="false" x="2" y="-18" playerX="2" playerY="-18"/>
+		<anim id="singRIGHT-loop" symbol="Parent Right Note Dad" fps="24" loop="true" x="2" y="-18" playerX="2" playerY="-18" indices="4,5,6,7,8,9,10,11,12,13,14"/>
+		<anim id="singLEFT-alt" symbol="Parent Left Note Mom" fps="24" loop="false" x="-24" y="30" playerX="-24" playerY="30"/>
+		<anim id="singLEFT-alt-loop" symbol="Parent Left Note Mom" fps="24" loop="true" x="-24" y="30" playerX="-24" playerY="30" indices="4,5,6,7,8,9,10,11,12,13"/>
+		<anim id="singDOWN-alt" symbol="Parent Down Note Mom" fps="24" loop="false" x="-38" y="-15" playerX="-38" playerY="-15"/>
+		<anim id="singDOWN-alt-loop" symbol="Parent Down Note Mom" fps="24" loop="true" x="-38" y="-15" playerX="-38" playerY="-15" indices="4,5,6,7,8,9,10,11,12,13"/>
+		<anim id="singUP-alt" symbol="Parent Up Note Mom" fps="24" loop="false" x="-49" y="32" playerX="-49" playerY="32"/>
+		<anim id="singUP-alt-loop" symbol="Parent Up Note Mom" fps="24" loop="true" x="-49" y="32" playerX="-49" playerY="32" indices="4,5,6,7,8,9,10,11,12"/>
+		<anim id="singRIGHT-alt" symbol="Parent Right Note Mom" fps="24" loop="false" x="2" y="-18" playerX="2" playerY="-18"/>
+		<anim id="singRIGHT-alt-loop" symbol="Parent Right Note Mom" fps="24" loop="true" x="2" y="-18" playerX="2" playerY="-18" indices="4,5,6,7,8,9,10,11,12,13"/>
+	</animations>
+</character>

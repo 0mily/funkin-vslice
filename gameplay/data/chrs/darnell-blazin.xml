@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/darnell/blazin" icon="darnell" scale="1" singDuration="999" x="0" y="270" cameraX="200" cameraY="250" flipX="false" noAntialiasing="false" healthColor="#735EB0" vocalsFile="" vsliceHolds="true" isEditor_Icons="darnellpixel" isEditor_Name="Darnell [Blazin]">
+	<assets>
+		<asset path="chrs/darnell/blazin"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Idle" fps="24" loop="true" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="pissed" symbol="Pissed" fps="24" loop="false" x="110" y="113" playerX="110" playerY="113"/>
+		<anim id="cringe" symbol="Cringe" fps="24" loop="false" x="110" y="113" playerX="110" playerY="113"/>
+		<anim id="fakeout" symbol="Fake Hit" fps="24" loop="false" x="110" y="113" playerX="110" playerY="113"/>
+		<anim id="block" symbol="Block" fps="24" loop="false" x="52" y="11" playerX="52" playerY="11"/>
+		<anim id="dodge" symbol="Dodge" fps="24" loop="false" x="150" y="115" playerX="150" playerY="115"/>
+		<anim id="uppercutPrep" symbol="Uppercut Prep" fps="24" loop="false" x="100" y="108" playerX="100" playerY="108"/>
+		<anim id="uppercut" symbol="Uppercut Punch" fps="24" loop="false" x="100" y="108" playerX="100" playerY="108"/>
+		<anim id="uppercutHit" symbol="Uppercut Hit" fps="24" loop="false" x="128" y="121" playerX="128" playerY="121"/>
+		<anim id="uppercut-loop" symbol="Uppercut Punch Loop" fps="24" loop="true" x="100" y="108" playerX="100" playerY="108"/>
+		<anim id="punchHigh1" symbol="Punch High 1" fps="24" loop="false" x="161" y="116" playerX="161" playerY="116"/>
+		<anim id="punchHigh2" symbol="Punch High 2" fps="24" loop="false" x="161" y="116" playerX="161" playerY="116"/>
+		<anim id="punchLow1" symbol="Punch Low 1" fps="24" loop="false" x="161" y="116" playerX="161" playerY="116"/>
+		<anim id="punchLow2" symbol="Punch Low 2" fps="24" loop="false" x="161" y="116" playerX="161" playerY="116"/>
+		<anim id="hitHigh" symbol="Hit High" fps="24" loop="false" x="62" y="71" playerX="62" playerY="71"/>
+		<anim id="hitLow" symbol="Hit Low" fps="24" loop="false" x="133" y="120" playerX="133" playerY="120"/>
+		<anim id="hitSpin" symbol="Hit Spin" fps="24" loop="true" x="212" y="132" playerX="212" playerY="132"/>
+	</animations>
+</character>

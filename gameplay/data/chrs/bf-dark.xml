@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/bf/dark" icon="bf" scale="1" singDuration="6.1" x="-10" y="278" cameraX="-217" cameraY="281" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="true" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend [Dark]">
+	<assets>
+		<asset path="chrs/bf/dark"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Idle" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="Left" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="Down" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="Up" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="Right" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFTmiss" symbol="Left Miss" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWNmiss" symbol="Down Miss" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUPmiss" symbol="Up Miss" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHTmiss" symbol="Right Miss" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="hey" symbol="Hey" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="scared" symbol="Scared" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/dead/alt" icon="pico" scale="1" singDuration="6.1" x="-118" y="235" cameraX="-285" cameraY="321" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="false" isEditor_Icons="picopixel" isEditor_Name="Pico [Explosion Dead}">
+	<assets>
+		<asset path="chrs/pico/dead/alt"/>
+	</assets>
+	<animations>
+		<anim id="firstDeath" symbol="intro" fps="24" loop="false" playerSymbol="intro" x="0" y="0" playerX="335" playerY="990"/>
+		<anim id="deathLoop" symbol="Loop Start" fps="24" loop="true" playerSymbol="Loop Start" x="0" y="0" playerX="335" playerY="990"/>
+		<anim id="deathConfirm" symbol="Confirm" fps="24" loop="false" playerSymbol="Confirm" x="0" y="0" playerX="335" playerY="990"/>
+	</animations>
+</character>

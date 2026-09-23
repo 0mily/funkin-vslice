@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/otis/main" icon="face" scale="1" singDuration="4" x="-302" y="73" cameraX="139" cameraY="447" flipX="false" noAntialiasing="false" healthColor="#A1A1A1" vocalsFile="" vsliceHolds="true" isEditor_Icons="face" isEditor_Name="Otis [Speaker]">
+	<assets>
+		<asset path="chrs/otis/main"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="idle" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="shoot1" symbol="shoot right" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="shoot2" symbol="shoot right low" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="shoot3" symbol="shoot left" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="shoot4" symbol="shoot left low" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

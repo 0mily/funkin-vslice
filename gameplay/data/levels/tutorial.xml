@@ -2,6 +2,6 @@
 <level storyName="tutorial" weekName="tutorial" background="" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
   <characters opponent="" boyfriend="bf" girlfriend="gf"/>
   <songs>
-    <song name="tutorial" icon="gf" color="#E20D99"/>
+    <song name="tutorial" icon="gf" color="#A5004D"/>
   </songs>
 </level>

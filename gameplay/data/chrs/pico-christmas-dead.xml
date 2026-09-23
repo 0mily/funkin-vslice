@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/xmas" icon="pico" scale="1" singDuration="6.1" x="-219" y="35" cameraX="-386" cameraY="523" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="false" isEditor_Icons="picopixel" isEditor_Name="Pico [Christmas] [Dead]">
+	<assets>
+		<asset path="chrs/pico/xmas"/>
+	</assets>
+	<animations>
+		<anim id="firstDeath" symbol="Death Intro" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="deathLoop" symbol="Death Loop" fps="24" loop="true" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="deathConfirm" symbol="Death Confirm" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

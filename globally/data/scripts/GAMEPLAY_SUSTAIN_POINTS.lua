@@ -4,7 +4,7 @@ local sustainTime = 0
 local sustainGrace = 0
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
-    if isSustainNote then
+    if isSustainNote and not botPlay then
         sustainGrace = 0.15
     end
 end

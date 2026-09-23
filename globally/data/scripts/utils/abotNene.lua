@@ -1,7 +1,10 @@
+local abotExists = false
+
 function onLoad()
     if string.find(string.lower(gfName), 'nene') then
         createAbot();
         createVisualizer();
+        abotExists = true
     end
 end
 
@@ -88,7 +91,7 @@ function createVisualizer()
 end
 
 function onUpdate(elapsed)
-    runHaxeFunction('updateVizualizer');
+    if abotExists then runHaxeFunction('updateVizualizer'); end
 end
 
 function onBeatHit()

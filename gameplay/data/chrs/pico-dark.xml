@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/dark" icon="pico" scale="1" singDuration="6.1" x="-118" y="235" cameraX="-287" cameraY="321" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true" isEditor_Icons="picopixel" isEditor_Name="Pico [Dark]">
+	<assets>
+		<asset path="chrs/pico/dark"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Idle" fps="24" loop="false" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="Left" fps="24" loop="false" opponentSymbol="Right" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="Down" fps="24" loop="false" opponentSymbol="Down" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="Up" fps="24" loop="false" opponentSymbol="Up" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="Right" fps="24" loop="false" opponentSymbol="Left" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFTmiss" symbol="Left Miss" fps="24" loop="false" opponentSymbol="Right Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWNmiss" symbol="Down Miss" fps="24" loop="false" opponentSymbol="Down Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUPmiss" symbol="Up Miss" fps="24" loop="false" opponentSymbol="Up Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHTmiss" symbol="Right Miss" fps="24" loop="false" opponentSymbol="Left Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="hey" symbol="Hey" fps="24" loop="false" opponentSymbol="Hey" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="cheer" symbol="Cheer" fps="24" loop="false" opponentSymbol="Cheer" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="burpShit" symbol="*BURP* ... Shit" fps="24" loop="false" opponentSymbol="*BURP* ... Shit" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="burpSmile" symbol="Burp Smile" fps="24" loop="false" opponentSymbol="Burp Smile" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="burpSmileLong" symbol="Burp Smile" fps="24" loop="false" opponentSymbol="Burp Smile" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,25,26,27,28,29,30,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,25,26,27,28,29,30,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31"/>
+		<anim id="shit" symbol="Burp Censor" fps="24" loop="false" opponentSymbol="Burp Censor" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

@@ -1,0 +1,35 @@
+<!-- a versão com a censura aqui -->
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/main/main" icon="pico" scale="1" singDuration="6.1" x="-118" y="235" cameraX="-287" cameraY="321" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true" isEditor_Icons="picopixel" isEditor_Name="Pico [Playable]">
+	<assets>
+		<asset path="chrs/pico/main/main"/>
+		<asset path="chrs/pico/main/slur"/>
+		<asset path="chrs/pico/main/player"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Idle" fps="24" loop="false" opponentSymbol="Idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="Left" fps="24" loop="false" opponentSymbol="Right" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="Down" fps="24" loop="false" opponentSymbol="Down" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="Up" fps="24" loop="false" opponentSymbol="Up" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="Right" fps="24" loop="false" opponentSymbol="Left" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT-censor" symbol="pico swear left" fps="24" loop="false" opponentSymbol="pico swear right" x="-132" y="-64" playerX="-28" playerY="-75"/>
+		<anim id="singDOWN-censor" symbol="pico swear down" fps="24" loop="false" opponentSymbol="pico swear down" x="0" y="-149" playerX="-23" playerY="-149"/>
+		<anim id="singUP-censor" symbol="pico swear up" fps="24" loop="false" opponentSymbol="pico swear up" x="-223" y="-38" playerX="-104" playerY="-38"/>
+		<anim id="singRIGHT-censor" symbol="pico swear right" fps="24" loop="false" opponentSymbol="pico swear left" x="-277" y="-75" playerX="-168" playerY="-64"/>
+		<anim id="singLEFTmiss" symbol="Left Miss" fps="24" loop="false" opponentSymbol="Right Miss" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="singDOWNmiss" symbol="Down Miss" fps="24" loop="false" opponentSymbol="Down Miss" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="singUPmiss" symbol="Up Miss" fps="24" loop="false" opponentSymbol="Up Miss" x="65" y="168" playerX="138" playerY="168"/>
+		<anim id="singRIGHTmiss" symbol="Right Miss" fps="24" loop="false" opponentSymbol="Left Miss" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="shootMISS" symbol="Hit" fps="24" loop="false" opponentSymbol="Hit" x="-36" y="168" playerX="239" playerY="168"/>
+		<anim id="hey" symbol="Hey" fps="24" loop="false" opponentSymbol="Hey" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="cheer" symbol="Cheer" fps="24" loop="false" opponentSymbol="Cheer" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="cock" symbol="Gun Reload" fps="24" loop="false" opponentSymbol="Gun Reload" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="shoot" symbol="Shoot" fps="24" loop="false" opponentSymbol="Shoot" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="intro1" symbol="Pissed Off" fps="24" loop="false" opponentSymbol="Pissed Off" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="intro2" symbol="Shoot and Return" fps="24" loop="false" opponentSymbol="Shoot and Return" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="burpShit" symbol="*BURP* ... Shit" fps="24" loop="false" opponentSymbol="*BURP* ... Shit" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="burpSmile" symbol="Burp Smile" fps="24" loop="false" opponentSymbol="Burp Smile" x="64" y="168" playerX="138" playerY="168"/>
+		<anim id="burpSmileLong" symbol="Burp Smile" fps="24" loop="false" opponentSymbol="Burp Smile" x="64" y="168" playerX="138" playerY="168" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,25,26,27,28,29,30,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,25,26,27,28,29,30,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31,31"/>
+		<anim id="shit" symbol="Burp Censor" fps="24" loop="false" opponentSymbol="Burp Censor" x="64" y="168" playerX="138" playerY="168"/>
+	</animations>
+</character>

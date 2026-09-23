@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/xmas" icon="pico" scale="1" singDuration="6.1" x="-219" y="35" cameraX="-386" cameraY="523" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true" isEditor_Icons="picopixel" isEditor_Name="Pico [Christmas]">
+	<assets>
+		<asset path="chrs/pico/xmas"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Idle" fps="24" loop="false" opponentSymbol="Idle" playerSymbol="Idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="Left" fps="24" loop="false" opponentSymbol="Right" playerSymbol="Left" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="Down" fps="24" loop="false" opponentSymbol="Down" playerSymbol="Down" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="Up" fps="24" loop="false" opponentSymbol="Up" playerSymbol="Up" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="Right" fps="24" loop="false" opponentSymbol="Left" playerSymbol="Right" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFTmiss" symbol="Left Miss" fps="24" loop="false" opponentSymbol="Right Miss" playerSymbol="Left Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWNmiss" symbol="Down Miss" fps="24" loop="false" opponentSymbol="Down Miss" playerSymbol="Down Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUPmiss" symbol="Up Miss" fps="24" loop="false" opponentSymbol="Up Miss" playerSymbol="Up Miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHTmiss" symbol="Right Miss" fps="24" loop="false" opponentSymbol="Left Miss" playerSymbol="Right Miss" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

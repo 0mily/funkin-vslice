@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/bf/holding-gf/main" icon="bf" scale="1" singDuration="6.1" x="5" y="350" cameraX="62" cameraY="-86" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="true" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend &amp; Girlfriend">
+	<assets>
+		<asset path="chrs/bf/holding-gf/main"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="BF idle dance w gf0" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="BF NOTE LEFT0" fps="24" loop="false" x="12" y="7" playerX="10" playerY="3"/>
+		<anim id="singDOWN" symbol="BF NOTE DOWN0" fps="24" loop="false" x="-10" y="-10" playerX="-11" playerY="-12"/>
+		<anim id="singUP" symbol="BF NOTE UP0" fps="24" loop="false" x="-29" y="10" playerX="-37" playerY="10"/>
+		<anim id="singRIGHT" symbol="BF NOTE RIGHT0" fps="24" loop="false" x="-41" y="23" playerX="-43" playerY="22"/>
+		<anim id="singLEFTmiss" symbol="BF NOTE LEFT MISS" fps="24" loop="false" x="12" y="7" playerX="11" playerY="5"/>
+		<anim id="singDOWNmiss" symbol="BF NOTE DOWN MISS" fps="24" loop="false" x="-10" y="-10" playerX="-10" playerY="-10"/>
+		<anim id="singUPmiss" symbol="BF NOTE UP MISS" fps="24" loop="false" x="-29" y="10" playerX="-29" playerY="10"/>
+		<anim id="singRIGHTmiss" symbol="BF NOTE RIGHT MISS" fps="24" loop="false" x="-41" y="23" playerX="-38" playerY="39"/>
+		<anim id="bfCatch" symbol="BF catches GF" fps="24" loop="false" x="0" y="0" playerX="4" playerY="90"/>
+	</animations>
+</character>

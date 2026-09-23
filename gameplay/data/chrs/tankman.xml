@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/tank/main" icon="tankman" scale="1" singDuration="4" x="30" y="10" cameraX="220" cameraY="470" flipX="true" noAntialiasing="false" healthColor="#E1E1E1" vocalsFile="" vsliceHolds="true" isEditor_Icons="tankmanpixel" isEditor_Name="Captain. Tankman">
+<character assetPath="chrs/tank/main" icon="tankman" scale="1" singDuration="6.1" x="-9" y="240" cameraX="275" cameraY="297" flipX="true" noAntialiasing="false" healthColor="#E1E1E1" vocalsFile="" vsliceHolds="true" isEditor_Icons="tankmanpixel" isEditor_Name="Captain. Tankman">
 	<assets>
 		<asset path="chrs/tank/main"/>
 		<asset path="chrs/tank/extra"/>
 	</assets>
 	<animations>
-		<anim id="idle" symbol="idle" fps="24" loop="false" opponentSymbol="Tankman Idle Dance" x="31" y="-201" playerX="0" playerY="0"/>
-		<anim id="singUP" symbol="up" fps="24" loop="false" opponentSymbol="Tankman UP note" x="67" y="-150" playerX="0" playerY="0"/>
-		<anim id="singDOWN" symbol="down" fps="24" loop="false" opponentSymbol="Tankman DOWN note" x="94" y="-322" playerX="0" playerY="0"/>
-		<anim id="singRIGHT" symbol="right" fps="24" loop="false" opponentSymbol="Tankman Note Left" x="5" y="-231" playerX="0" playerY="0"/>
-		<anim id="singLEFT" symbol="left" fps="24" loop="false" opponentSymbol="Tankman Right Note" x="110" y="-199" playerX="0" playerY="0"/>
-		<anim id="singUP-alt" symbol="ugh" fps="24" loop="false" opponentSymbol="TANKMAN UGH" x="56" y="-207" playerX="18" playerY="-4"/>
+		<anim id="idle" symbol="idle" fps="24" loop="false" opponentSymbol="Tankman Idle Dance" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="left" fps="24" loop="false" opponentSymbol="Tankman Right Note" x="84" y="3" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="down" fps="24" loop="false" opponentSymbol="Tankman DOWN note" x="76" y="-101" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="up" fps="24" loop="false" opponentSymbol="Tankman UP note" x="39" y="56" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="right" fps="24" loop="false" opponentSymbol="Tankman Note Left" x="-31" y="-31" playerX="0" playerY="0"/>
+		<anim id="hehPrettyGood" symbol="pretty good" fps="24" loop="false" opponentSymbol="pretty good" x="106" y="16" playerX="5" playerY="-40"/>
+		<anim id="ugh" symbol="ugh" fps="24" loop="false" opponentSymbol="TANKMAN UGH" x="15" y="-16" playerX="5" playerY="-40"/>
+		<anim id="singUP-alt" symbol="TANKMAN UGH" fps="24" loop="false" opponentSymbol="TANKMAN UGH" x="15" y="-16" playerX="0" playerY="0"/>
+		<anim id="laugh" symbol="laugh" fps="24" loop="false" opponentSymbol="laugh" x="109" y="17" playerX="5" playerY="-40"/>
+		<anim id="beat it" symbol="beat it" fps="24" loop="false" opponentSymbol="beat it" x="109" y="17" playerX="5" playerY="-40"/>
+		<anim id="augh" symbol="argh" fps="24" loop="false" opponentSymbol="argh" x="109" y="17" playerX="5" playerY="-40" opponentIndices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,16"/>
 	</animations>
 </character>

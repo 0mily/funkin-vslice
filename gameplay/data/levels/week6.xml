@@ -2,8 +2,8 @@
 <level storyName="HATING SIMULATOR (FT. MOAWLING)" weekName="Week 6" background="stage" unlockAfter="tutorial" startUnlocked="true" hiddenUntilUnlocked="false" hideStoryMode="false" hideFreeplay="false" difficulties="">
   <characters opponent="senpai" boyfriend="bf" girlfriend="gf"/>
   <songs>
-    <song name="senpai" icon="senpai" color="#F67135"/>
-    <song name="roses" icon="senpai-angry" color="#F67135"/>
-    <song name="thorns" icon="spirit" color="#BA285D"/>
+    <song name="senpai" icon="senpai" color="#FF78BF"/>
+    <song name="roses" icon="senpai-angry" color="#FF78BF"/>
+    <song name="thorns" icon="spirit" color="#FF78BF"/>
   </songs>
 </level>

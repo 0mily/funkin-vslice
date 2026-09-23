@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/spirit/main" icon="spirit" scale="6" singDuration="8" x="67" y="380" cameraX="-198" cameraY="-281" flipX="false" noAntialiasing="true" healthColor="#FF3C6E" vocalsFile="" vsliceHolds="true" isEditor_Icons="spiritpixel" isEditor_Name="Spirit">
+	<assets>
+		<asset path="chrs/spirit/main"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="idle spirit_" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="left_" fps="24" loop="false" x="2" y="-2" playerX="2" playerY="-2"/>
+		<anim id="singDOWN" symbol="spirit down_" fps="24" loop="false" x="388" y="390" playerX="388" playerY="390"/>
+		<anim id="singUP" symbol="up_" fps="24" loop="false" x="0" y="9" playerX="0" playerY="9"/>
+		<anim id="singRIGHT" symbol="right_" fps="24" loop="false" x="-3" y="1" playerX="-3" playerY="1"/>
+	</animations>
+</character>

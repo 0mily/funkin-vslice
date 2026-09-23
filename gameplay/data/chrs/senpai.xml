@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/senpai/main" icon="senpai" scale="6" singDuration="8" x="150" y="360" cameraX="-300" cameraY="-350" flipX="false" noAntialiasing="true" healthColor="#FFAA6F" vocalsFile="" vsliceHolds="true" isEditor_Icons="senpaipixel" isEditor_Name="Senpai">
+<character assetPath="chrs/senpai/main" icon="senpai" scale="6" singDuration="8" x="150" y="360" cameraX="-240" cameraY="-330" flipX="false" noAntialiasing="true" healthColor="#FFAA6F" vocalsFile="" vsliceHolds="true" isEditor_Icons="senpaipixel" isEditor_Name="Senpai">
 	<assets>
 		<asset path="chrs/senpai/main"/>
 	</assets>
 	<animations>
-		<anim id="idle" symbol="Senpai Idle" fps="24" loop="false" x="0" y="0" playerX="1" playerY="0"/>
-		<anim id="singUP" symbol="SENPAI UP NOTE" fps="24" loop="false" x="11" y="35" playerX="5" playerY="37"/>
-		<anim id="singRIGHT" symbol="SENPAI RIGHT NOTE" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singLEFT" symbol="SENPAI LEFT NOTE" fps="24" loop="false" x="26" y="0" playerX="40" playerY="0"/>
-		<anim id="singDOWN" symbol="SENPAI DOWN NOTE" fps="24" loop="false" x="10" y="0" playerX="14" playerY="0"/>
+		<anim id="idle" symbol="Senpai Idle instance 10" fps="24" loop="false" x="-2" y="-3" playerX="-2" playerY="-3"/>
+		<anim id="singLEFT" symbol="SENPAI LEFT NOTE instance 10" fps="24" loop="false" x="28" y="-2" playerX="28" playerY="-2"/>
+		<anim id="singDOWN" symbol="SENPAI DOWN NOTE instance 10" fps="24" loop="false" x="10" y="-2" playerX="10" playerY="-2"/>
+		<anim id="singUP" symbol="SENPAI UP NOTE instance 10" fps="24" loop="false" x="4" y="34" playerX="4" playerY="34"/>
+		<anim id="singRIGHT" symbol="SENPAI RIGHT NOTE instance 10" fps="24" loop="false" x="3" y="-2" playerX="3" playerY="-2"/>
 	</animations>
 </character>

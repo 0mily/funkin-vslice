@@ -34,7 +34,7 @@ function noteSkins(pixel:Bool)
 function noteColors(pixel:Bool)
 {
     // Normal colors
-    var leftR = 'FF63CB'; var downR = '00FFFF';
+    var leftR = 'C24B99'; var downR = '00FFFF';
     var leftG = 'FFFFFF'; var downG = 'FFFFFF';
     var leftB = '3C1F56'; var downB = '1542B7';
 

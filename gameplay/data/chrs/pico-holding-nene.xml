@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/holding-nene" icon="pico" scale="1" singDuration="6.1" x="-101" y="214" cameraX="-287" cameraY="293" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="true" isEditor_Icons="picopixel" isEditor_Name="Pico &amp; Nene">
+	<assets>
+		<asset path="chrs/pico/holding-nene"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="idle" fps="24" loop="false" playerSymbol="idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="left" fps="24" loop="false" playerSymbol="left" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWN" symbol="down" fps="24" loop="false" playerSymbol="down" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="up" fps="24" loop="false" playerSymbol="up" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHT" symbol="right" fps="24" loop="false" playerSymbol="right" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFTmiss" symbol="left miss" fps="24" loop="false" playerSymbol="left miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singDOWNmiss" symbol="down miss" fps="24" loop="false" playerSymbol="down miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUPmiss" symbol="up miss" fps="24" loop="false" playerSymbol="up miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singRIGHTmiss" symbol="right miss" fps="24" loop="false" playerSymbol="right miss" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="knifeToss" symbol="nene knife" fps="24" loop="false" playerSymbol="nene knife" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="laughEnd" symbol="laugh start" fps="24" loop="false" playerSymbol="laugh start" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="laughEnd-loop" symbol="laugh loop" fps="24" loop="true" playerSymbol="laugh loop" x="0" y="0" playerX="0" playerY="0"/>
+	</animations>
+</character>

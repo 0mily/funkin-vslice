@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/spooky/dark" icon="spooky" scale="1" singDuration="6.1" x="0" y="200" cameraX="39" cameraY="23" flipX="false" noAntialiasing="false" healthColor="#D57E00" vocalsFile="" vsliceHolds="true" isEditor_Icons="spooky" isEditor_Name="Spooky Kids [Dark]">
+	<assets>
+		<asset path="chrs/spooky/dark"/>
+	</assets>
+	<animations>
+		<anim id="danceLeft" symbol="spooky dance idle0" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7"/>
+		<anim id="danceRight" symbol="spooky dance idle0" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="8,9,10,11,12,13,14,15"/>
+		<anim id="singLEFT" symbol="note sing left" fps="24" loop="false" x="130" y="-15" playerX="130" playerY="-15"/>
+		<anim id="singDOWN" symbol="spooky DOWN note" fps="24" loop="false" x="-50" y="-140" playerX="-50" playerY="-140"/>
+		<anim id="singUP" symbol="spooky UP NOTE" fps="24" loop="false" x="-20" y="26" playerX="-20" playerY="26"/>
+		<anim id="singRIGHT" symbol="spooky sing right" fps="24" loop="false" x="-130" y="-15" playerX="-130" playerY="-15"/>
+		<anim id="cheer" symbol="Spookiez YEAH cheer" fps="24" loop="false" x="60" y="30" playerX="60" playerY="30"/>
+	</animations>
+</character>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/tank/bloody" icon="tankman-bloody" scale="1" singDuration="6.1" x="-93" y="175" cameraX="360" cameraY="360" flipX="false" noAntialiasing="false" healthColor="#E1ACAC" vocalsFile="" vsliceHolds="true" isEditor_Icons="tankmanpixel" isEditor_Name="Captain. Tankman [Bloody]">
+	<assets>
+		<asset path="chrs/tank/bloody"/>
+		<asset path="chrs/tank/bloody/cutscene"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="idle knife" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="singLEFT" symbol="left knife" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="singDOWN" symbol="down knife" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="singUP" symbol="up knife" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="singRIGHT" symbol="right knife" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="hehPrettyGood" symbol="pretty good bloody" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="redheadsAnim" symbol="redheads" fps="24" loop="false" x="67" y="110" playerX="67" playerY="110"/>
+		<anim id="stressPicoEnding" symbol="tankman stress ending" fps="24" loop="false" x="-86" y="17" playerX="-87" playerY="18"/>
+	</animations>
+</character>

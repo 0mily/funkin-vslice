@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/holding-nene/dead" icon="pico" scale="1" singDuration="6.1" x="-101" y="214" cameraX="-287" cameraY="293" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="false" isEditor_Icons="picopixel" isEditor_Name="Pico &amp; Nene [Dead}">
+	<assets>
+		<asset path="chrs/pico/holding-nene/dead"/>
+	</assets>
+	<animations>
+		<anim id="firstDeath" symbol="intro" fps="24" loop="false" x="543" y="0" playerX="543" playerY="0"/>
+		<anim id="deathLoop" symbol="loop" fps="24" loop="true" x="543" y="0" playerX="543" playerY="0"/>
+		<anim id="deathConfirm" symbol="confirm" fps="24" loop="false" x="543" y="0" playerX="543" playerY="0"/>
+		<anim id="deathConfirm-loop" symbol="confirm loop" fps="24" loop="true" x="543" y="0" playerX="543" playerY="0"/>
+	</animations>
+</character>

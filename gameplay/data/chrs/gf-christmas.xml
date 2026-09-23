@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/gf/xmas" icon="gf" scale="1" singDuration="4" x="-210" y="-320" cameraX="770" cameraY="630" flipX="false" noAntialiasing="false" healthColor="#A5004D" vocalsFile="" vsliceHolds="true" isEditor_Icons="gfPixel" isEditor_Name="Girlfriend (Christmas)">
+<character assetPath="chrs/gf/xmas" icon="gf" scale="1" singDuration="6.1" x="-4" y="-17" cameraX="413" cameraY="378" flipX="false" noAntialiasing="false" healthColor="#A5004D" vocalsFile="" vsliceHolds="true" isEditor_Icons="gfpixel" isEditor_Name="Girlfriend [Christmas]">
 	<assets>
 		<asset path="chrs/gf/xmas"/>
 	</assets>
 	<animations>
-		<anim id="cheer" symbol="GF Cheer" fps="24" loop="false" x="-149" y="-317" playerX="521" playerY="-317"/>
-		<anim id="sad" symbol="gf sad" fps="24" loop="false" x="-149" y="-320" playerX="519" playerY="-319" indices="0,1,2,3,4,5,6,7,8,9,10,11,12"/>
-		<anim id="danceLeft" symbol="GF Dancing Beat" fps="24" loop="false" x="-149" y="-302" playerX="521" playerY="-302" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
-		<anim id="danceRight" symbol="GF Dancing Beat" fps="24" loop="false" x="-149" y="-302" playerX="521" playerY="-302" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
+		<anim id="danceLeft" symbol="GF Dancing Beat" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
+		<anim id="danceRight" symbol="GF Dancing Beat" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
+		<anim id="combo50" symbol="GF Cheer" fps="24" loop="false" x="0" y="-15" playerX="0" playerY="-15"/>
+		<anim id="drop70" symbol="gf sad" fps="24" loop="false" x="0" y="-17" playerX="0" playerY="-17" indices="0,1,2,3,4,5,6,7,8,9,10,11,12"/>
 	</animations>
 </character>

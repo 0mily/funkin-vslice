@@ -1,3 +1,13 @@
+function onLoad()
+    runHaxeCode([[
+        import flixel.util.FlxStringUtil;
+
+        function formatNumber(value:Int){
+            return FlxStringUtil.formatMoney(value, false);
+        }
+    ]])
+end
+
 function onLoadPost()
     HealthBarColor()
     Functionalities()
@@ -10,8 +20,7 @@ function HealthBarColor() -- modding
 end
 
 function Functionalities()
-
-    setPropertyFromClass('backend.ClientPrefs', 'data.comboOffset', {50, 50, 95, 120})
+    setPropertyFromClass('backend.ClientPrefs', 'data.comboOffset', {50, 50, 95, 120}) -- is this really necessary? -Shiho
     setProperty('scoreTxt.fieldWidth', 0)
     setProperty('scoreTxt.x', getProperty('healthBar.x') + getProperty('healthBar.width') - 190)
     setProperty('scoreTxt.y', getProperty('healthBar.y') + 30)
@@ -32,27 +41,16 @@ function Functionalities()
 end
 
 function onUpdate(e)
-    updateCustomScore()
-end
-
-function formatNumber(value)
-    local negative = value < 0
-    local mathForm = tostring(math.floor(math.abs(value)))
-    local replace
-
-    repeat
-        mathForm, replace =
-            mathForm:gsub('^(%d+)(%d%d%d)', '%1,%2')
-    until replace == 0
-
-    if negative then
-        mathForm = '-' .. mathForm
+    if not botPlay then
+        updateCustomScore()
     end
-
-    return mathForm
 end
 
 function updateCustomScore()
-    local commaScore = formatNumber(getProperty('songScore'))
-    setTextString('scoreTxt', 'Score: ' .. commaScore)
+    local commaScore = runHaxeFunction('formatNumber', {score})
+    if not botPlay then
+        setTextString('scoreTxt', getTranslationPhrase('vslice_score', 'Score: {1}', {commaScore}))
+    else
+        setTextString('scoreTxt', getTranslationPhrase('vslice_botplay', 'Bot Play enabled'))
+    end
 end

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/bf/pixel" icon="bf-pixel" scale="6" singDuration="4" x="0" y="350" cameraX="-40" cameraY="70" flipX="true" noAntialiasing="true" healthColor="#7BD6F6" vocalsFile="" vsliceHolds="true" isEditor_Icons="bfPixel" isEditor_Name="Boyfriend (Pixel)">
+<character assetPath="chrs/bf/pixel" icon="bf-pixel" scale="6" singDuration="8" x="-6" y="350" cameraX="43" cameraY="-61" flipX="true" noAntialiasing="true" healthColor="#7BD6F6" vocalsFile="" vsliceHolds="true" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend [Pixel]">
 	<assets>
 		<asset path="chrs/bf/pixel"/>
 	</assets>
 	<animations>
-		<anim id="idle" symbol="idle" fps="12" loop="false" x="7" y="0" playerX="0" playerY="0"/>
-		<anim id="singLEFTmiss" symbol="miss-left" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singLEFT" symbol="left" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singUPmiss" symbol="miss-up" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singUP" symbol="up" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singRIGHT" symbol="right" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singRIGHTmiss" symbol="miss-right" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singDOWN" symbol="down" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="singDOWNmiss" symbol="miss-down" fps="12" loop="false" x="0" y="0" playerX="0" playerY="0"/>
-		<anim id="hey" symbol="hey" fps="10" loop="false" playerSymbol="hey" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="idle" symbol="BF IDLE instance 10" fps="12" loop="false" playerSymbol="idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFT" symbol="BF LEFT NOTE instance 10" fps="12" loop="false" playerSymbol="left" x="-1" y="0" playerX="-1" playerY="0"/>
+		<anim id="singDOWN" symbol="BF DOWN NOTE instance 10" fps="12" loop="false" playerSymbol="down" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUP" symbol="BF UP NOTE instance 10" fps="12" loop="false" playerSymbol="up" x="-1" y="0" playerX="-1" playerY="0"/>
+		<anim id="singRIGHT" symbol="BF RIGHT NOTE instance 10" fps="12" loop="false" playerSymbol="right" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singLEFTmiss" symbol="BF LEFT MISS instance 10" fps="12" loop="false" playerSymbol="miss-left" x="-1" y="0" playerX="-1" playerY="0"/>
+		<anim id="singDOWNmiss" symbol="BF DOWN MISS instance 10" fps="12" loop="false" playerSymbol="miss-down" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="singUPmiss" symbol="BF UP MISS instance 10" fps="12" loop="false" playerSymbol="miss-up" x="-1" y="0" playerX="-1" playerY="0"/>
+		<anim id="singRIGHTmiss" symbol="BF RIGHT MISS instance 10" fps="12" loop="false" playerSymbol="miss-right" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="hey" symbol="hey" fps="12" loop="false" playerSymbol="hey" x="0" y="0" playerX="0" playerY="0"/>
 	</animations>
 </character>

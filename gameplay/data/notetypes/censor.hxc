@@ -1,7 +1,7 @@
 function onLoad() {
 	for (note in unspawnNotes) {
 		if (note.noteType == "censor") {
-			note.animSuffix = "-slur"; // IT'S SUPPOSED TO BE -slur NOT -swear AGGHRHH  // fixed
+			note.animSuffix = "-censor";
 		}
 	}
 }

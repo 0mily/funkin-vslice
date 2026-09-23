@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/pico/blazin" icon="pico" scale="1" singDuration="999" x="-549" y="152" cameraX="-730" cameraY="410" flipX="true" noAntialiasing="false" healthColor="#B7D855" vocalsFile="" vsliceHolds="false" isEditor_Icons="picopixel" isEditor_Name="Pico [Blazin] [Dead]">
+	<assets>
+		<asset path="chrs/pico/blazin"/>
+	</assets>
+	<animations>
+		<anim id="firstDeath" symbol="Low Death Intro" fps="24" loop="false" x="-31" y="7" playerX="-31" playerY="7"/>
+		<anim id="deathLoop" symbol="Low Death Loop" fps="24" loop="true" x="-31" y="7" playerX="-31" playerY="7"/>
+		<anim id="deathConfirm" symbol="Low Death Confirm" fps="24" loop="false" x="-31" y="7" playerX="-31" playerY="7"/>
+	</animations>
+</character>

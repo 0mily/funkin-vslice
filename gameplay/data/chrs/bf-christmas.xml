@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/bf/xmas/main" icon="bf" scale="1" singDuration="4" x="290" y="140" cameraX="330" cameraY="210" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="true" isEditor_Icons="bfPixel" isEditor_Name="Boyfriend (Christmas)">
+<character assetPath="chrs/bf/xmas/main" icon="bf" scale="1" singDuration="8" x="0" y="350" cameraX="0" cameraY="0" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="true" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend [Christmas]">
 	<assets>
 		<asset path="chrs/bf/xmas/main"/>
-		<asset path="chrs/bf/xmas/main-slur"/>
+		<asset path="chrs/bf/xmas/slur"/>
 	</assets>
 	<animations>
-		<anim id="singDOWNmiss" symbol="BF NOTE DOWN MISS" fps="24" loop="false" x="305" y="-248" playerX="267" playerY="-229"/>
-		<anim id="singUPmiss" symbol="BF NOTE UP MISS" fps="24" loop="false" x="396" y="-159" playerX="253" playerY="-182"/>
-		<anim id="singRIGHTmiss" symbol="BF NOTE RIGHT MISS" fps="24" loop="false" x="363" y="-206" playerX="242" playerY="-190"/>
-		<anim id="hey" symbol="BF HEY" fps="24" loop="false" x="327" y="-212" playerX="287" playerY="-205"/>
-		<anim id="singLEFT" symbol="BF NOTE LEFT" fps="24" loop="false" x="293" y="-219" playerX="298" playerY="-217" indices="0,1,2,3,4"/>
-		<anim id="singDOWN" symbol="BF NOTE DOWN" fps="24" loop="false" x="290" y="-268" playerX="266" playerY="-261" indices="0,1,2,3,4"/>
-		<anim id="singUP" symbol="BF NOTE UP" fps="24" loop="false" x="393" y="-155" playerX="245" playerY="-182" indices="0,1,2,3,4"/>
-		<anim id="idle" symbol="BF idle dance" fps="24" loop="false" x="318" y="-220" playerX="285" playerY="-210"/>
-		<anim id="singRIGHT" symbol="BF NOTE RIGHT" fps="24" loop="false" x="360" y="-211" playerX="234" playerY="-216" indices="0,1,2,3,4"/>
-		<anim id="singRIGHT-slur" symbol="bf swear right" fps="24" loop="false" playerSymbol="bf swear right" x="0" y="0" playerX="234" playerY="-216" indices="0,1,2,3,4"/>
-		<anim id="singDOWN-slur" symbol="bf swear down" fps="24" loop="false" playerSymbol="bf swear down" x="0" y="0" playerX="266" playerY="-261" indices="0,1,2,3,4"/>
+		<anim id="hey" symbol="BF HEY!!" fps="24" loop="false" x="-2" y="5" playerX="-2" playerY="5"/>
+		<anim id="idle" symbol="BF idle dance" fps="24" loop="false" x="-5" y="0" playerX="-5" playerY="0"/>
+		<anim id="singLEFT" symbol="BF NOTE LEFT0" fps="24" loop="false" x="12" y="-6" playerX="12" playerY="-6"/>
+		<anim id="singDOWN" symbol="BF NOTE DOWN0" fps="24" loop="false" x="-10" y="-50" playerX="-10" playerY="-50"/>
+		<anim id="singUP" symbol="BF NOTE UP0" fps="24" loop="false" x="-29" y="27" playerX="-29" playerY="27"/>
+		<anim id="singRIGHT" symbol="BF NOTE RIGHT0" fps="24" loop="false" x="-38" y="-7" playerX="-38" playerY="-7"/>
+		<anim id="singDOWN-censor" symbol="bf swear down" fps="24" loop="false" x="-10" y="-50" playerX="-10" playerY="-50"/>
+		<anim id="singRIGHT-censor" symbol="bf swear right" fps="24" loop="false" x="-38" y="-7" playerX="-38" playerY="-7"/>
+		<anim id="singLEFTmiss" symbol="BF NOTE LEFT MISS" fps="24" loop="false" x="12" y="24" playerX="12" playerY="24"/>
+		<anim id="singDOWNmiss" symbol="BF NOTE DOWN MISS" fps="24" loop="false" x="-11" y="-19" playerX="-11" playerY="-19"/>
+		<anim id="singUPmiss" symbol="BF NOTE UP MISS" fps="24" loop="false" x="-29" y="27" playerX="-29" playerY="27"/>
+		<anim id="singRIGHTmiss" symbol="BF NOTE RIGHT MISS" fps="24" loop="false" x="-30" y="21" playerX="-30" playerY="21"/>
 	</animations>
 </character>

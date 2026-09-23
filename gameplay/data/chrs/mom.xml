@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/parents/mom/main" icon="mom" scale="1" singDuration="4" x="0" y="0" cameraX="0" cameraY="0" flipX="false" noAntialiasing="false" healthColor="#D8558E" vocalsFile="" vsliceHolds="true" isEditor_Icons="mompixel" isEditor_Name="Mommy Mearest">
+	<assets>
+		<asset path="chrs/parents/mom/main"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Mom Idle" fps="24" loop="false" opponentSymbol="Mom Idle" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="idle-loop" symbol="Mom Idle" fps="24" loop="true" opponentSymbol="Mom Idle" x="0" y="0" playerX="0" playerY="0" indices="11,11,12,12" opponentIndices="11,11,12,12"/>
+		<anim id="singLEFT" symbol="Mom Left Pose" fps="24" loop="false" opponentSymbol="Mom Left Pose" x="250" y="-23" playerX="250" playerY="-23"/>
+		<anim id="singLEFT-loop" symbol="Mom Left Pose" fps="24" loop="true" opponentSymbol="Mom Left Pose" x="250" y="-23" playerX="250" playerY="-23" indices="7,8" opponentIndices="7,7,8,8"/>
+		<anim id="singRIGHT" symbol="Mom Pose Left" fps="24" loop="false" opponentSymbol="Mom Pose Left" x="10" y="-60" playerX="10" playerY="-60"/>
+		<anim id="singRIGHT-loop" symbol="Mom Pose Left" fps="24" loop="true" opponentSymbol="Mom Pose Left" x="10" y="-60" playerX="10" playerY="-60" indices="7,7,8,8" opponentIndices="7,7,8,8"/>
+		<anim id="singDOWN" symbol="MOM DOWN POSE" fps="24" loop="false" opponentSymbol="MOM DOWN POSE" x="20" y="-160" playerX="20" playerY="-160"/>
+		<anim id="singDOWN-loop" symbol="MOM DOWN POSE" fps="24" loop="true" opponentSymbol="MOM DOWN POSE" x="20" y="-160" playerX="20" playerY="-160" indices="7,7,8,8" opponentIndices="7,7,8,8"/>
+		<anim id="singUP" symbol="Mom Up Pose" fps="24" loop="false" opponentSymbol="Mom Up Pose" x="14" y="71" playerX="14" playerY="71"/>
+		<anim id="singUP-loop" symbol="Mom Up Pose" fps="24" loop="true" opponentSymbol="Mom Up Pose" x="14" y="71" playerX="14" playerY="71" indices="7,7,8,8" opponentIndices="7,7,8,8"/>
+	</animations>
+</character>

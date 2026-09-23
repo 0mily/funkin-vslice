@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<character assetPath="chrs/bf/dead/main" icon="bf" scale="1" singDuration="4" x="0" y="350" cameraX="-180" cameraY="120" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="false" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend (Dead)">
+<character assetPath="chrs/bf/dead/main" icon="bf" scale="1" singDuration="6.1" x="-10" y="278" cameraX="-217" cameraY="281" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="false" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend [Dead}">
 	<assets>
 		<asset path="chrs/bf/dead/main"/>
 		<asset path="chrs/bf/dead/fakeout"/>
 	</assets>
 	<animations>
-		<anim id="firstDeath" symbol="BF dies" fps="24" loop="false" x="37" y="11" playerX="33" playerY="8"/>
-		<anim id="deathLoop" symbol="BF Dead Loop" fps="24" loop="true" x="37" y="5" playerX="23" playerY="1"/>
-		<anim id="deathConfirm" symbol="BF Dead confirm" fps="24" loop="false" x="37" y="69" playerX="23" playerY="89"/>
-		<anim id="fakeOut" symbol="fake_out_death_final_alt" fps="24" loop="false" playerSymbol="fake out death BF" x="0" y="0" playerX="20" playerY="10"/>
+		<anim id="firstDeath" symbol="Death Intro" fps="24" loop="false" x="22" y="15" playerX="22" playerY="15"/>
+		<anim id="deathLoop" symbol="Death Loop" fps="24" loop="true" x="22" y="15" playerX="22" playerY="15"/>
+		<anim id="deathConfirm" symbol="Death Confirm" fps="24" loop="false" x="22" y="15" playerX="22" playerY="15"/>
+		<anim id="fakeoutDeath" symbol="fake out death BF" fps="24" loop="false" x="-3" y="-65" playerX="9" playerY="-64"/>
 	</animations>
 </character>

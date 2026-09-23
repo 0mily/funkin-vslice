@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="chrs/bf/holding-gf/dead" icon="bf" scale="1" singDuration="6.1" x="5" y="350" cameraX="62" cameraY="-86" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="false" isEditor_Icons="bfpixel" isEditor_Name="Boyfriend &amp; Girlfriend [Dead}">
+	<assets>
+		<asset path="chrs/bf/holding-gf/dead"/>
+	</assets>
+	<animations>
+		<anim id="firstDeath" symbol="BF Dies with GF" fps="24" loop="false" x="37" y="14" playerX="37" playerY="14"/>
+		<anim id="deathConfirm" symbol="RETRY confirm holding gf" fps="24" loop="false" x="37" y="28" playerX="37" playerY="28"/>
+		<anim id="deathLoop" symbol="BF Dead with GF Loop" fps="24" loop="true" x="37" y="-3" playerX="37" playerY="-3"/>
+	</animations>
+</character>
