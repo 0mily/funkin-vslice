@@ -1,0 +1,698 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			5393,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			8089.15730337079,
+			[
+				["Camera Zoom", "0.77, 32", "expoOut, nll"]
+			]
+		],
+		[
+			10786,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			10786.5168539326,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			16179,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			17696.1573033708,
+			[
+				["Camera Zoom", "0.77, 32", "expoOut, nll"]
+			]
+		],
+		[
+			18876.1573033708,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			20140.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.018, 0.036"]
+			]
+		],
+		[
+			20393.1573033708,
+			[
+				["Camera Zoom", "0.77, 32", "expoOut, nll"]
+			]
+		],
+		[
+			21488.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.012, 0.024"]
+			]
+		],
+		[
+			21573.0337078652,
+			[
+				["Camera Zoom", "0.63, 32", "expoOut, nll"],
+				["Focus Camera", "dad, 320, -70", "classic, 0"]
+			]
+		],
+		[
+			24269.5168539326,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			24269.6629213483,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			26966.2921348315,
+			[
+				["Camera Zoom", "0.63, 32", "expoOut, nll"]
+			]
+		],
+		[
+			26966.5168539326,
+			[
+				["Focus Camera", "dad, 320, -70", "classic, 0"]
+			]
+		],
+		[
+			29662.1573033708,
+			[
+				["Camera Zoom", "0.665, 32", "expoOut, nll"]
+			]
+		],
+		[
+			30926.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.018, 0.036"]
+			]
+		],
+		[
+			32275.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.006, 0.012"]
+			]
+		],
+		[
+			32359.5168539326,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			32359.5505617978,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			37752.5168539326,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			39101.1573033708,
+			[
+				["Camera Zoom", "0.735, 32", "expoOut, nll"]
+			]
+		],
+		[
+			40449.1573033708,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			41713.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.018, 0.036"]
+			]
+		],
+		[
+			41797.1573033708,
+			[
+				["Camera Zoom", "0.77, 32", "expoOut, nll"]
+			]
+		],
+		[
+			43061.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.0075, 0.015"]
+			]
+		],
+		[
+			43146.0674157303,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			43146.5168539326,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			48539.5168539326,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			49887.1573033708,
+			[
+				["Camera Zoom", "0.735, 32", "expoOut, nll"]
+			]
+		],
+		[
+			51235.1573033708,
+			[
+				["Camera Zoom", "0.77, 32", "expoOut, nll"]
+			]
+		],
+		[
+			52584.1573033708,
+			[
+				["Camera Zoom", "0.805, 32", "expoOut, nll"]
+			]
+		],
+		[
+			53595.1573033708,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			53848.7191011236,
+			[
+				["Camera Module Bop", "2, beat, 0", "0.0225, 0.045"]
+			]
+		],
+		[
+			54101.1573033708,
+			[
+				["Camera Zoom", "0.665, 16", "expoOut, nll"]
+			]
+		],
+		[
+			55449.1573033708,
+			[
+				["Camera Zoom", "0.7, 16", "expoOut, nll"]
+			]
+		],
+		[
+			56966.1573033708,
+			[
+				["Camera Zoom", "0.721, 16", "expoOut, nll"]
+			]
+		],
+		[
+			57303.1573033708,
+			[
+				["Camera Zoom", "0.742, 16", "expoOut, nll"]
+			]
+		],
+		[
+			57977.1573033708,
+			[
+				["Camera Zoom", "0.763, 16", "expoOut, nll"]
+			]
+		],
+		[
+			58651.1573033708,
+			[
+				["Camera Zoom", "0.7, 16", "expoOut, nll"]
+			]
+		],
+		[
+			59662.1573033708,
+			[
+				["Camera Zoom", "0.665, 16", "expoOut, nll"]
+			]
+		],
+		[
+			60000.1573033708,
+			[
+				["Camera Zoom", "0.7, 16", "expoOut, nll"]
+			]
+		],
+		[
+			60842.1573033708,
+			[
+				["Camera Zoom", "0.721, 16", "expoOut, nll"]
+			]
+		],
+		[
+			61348.1573033708,
+			[
+				["Camera Zoom", "0.742, 16", "expoOut, nll"]
+			]
+		],
+		[
+			61685.393258427,
+			[
+				["Camera Module Bop", "4, beat, 0", "0, 0"]
+			]
+		],
+		[
+			61938.6629213483,
+			[
+				["Focus Camera", "dad, 0, 0", "expoOut, 16"]
+			]
+		],
+		[
+			61980.0112359551,
+			[
+				["Play Animation", "redheadsAnim", "dad", "true"],
+				["Change Character", "dad, false", "tankman-bloody"],
+				["Call Script", "tankIco", "HScript", "anim"]
+			]
+		],
+		[
+			61982,
+			[
+				["EnableMask", "", ""]
+			]
+		],
+		[
+			62022.1573033708,
+			[
+				["Camera Zoom", "0.665, 16", "expoOut, nll"]
+			]
+		],
+		[
+			63328.5168539326,
+			[
+				["Play Animation", "knifeToss", "boyfriend", "true"]
+			]
+		],
+		[
+			63370.6629213483,
+			[
+				["Focus Camera", "bf, 0, 0", "expoOut, 8"]
+			]
+		],
+		[
+			63707.8651685393,
+			[
+				["Camera Zoom", "0.735, 7", "quartOut, nll"]
+			]
+		],
+		[
+			64044.0337078652,
+			[
+				["Focus Camera", "dad, 220, -20", "expoOut, 16"]
+			]
+		],
+		[
+			64044.9438202247,
+			[
+				["Camera Zoom", "0.63, 16", "expoOut, nll"]
+			]
+		],
+		[
+			64500,
+			[
+				["Call Script", "tankIco", "HScript", "knife"]
+			]
+		],
+		[
+			64634.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.012, 0.024"]
+			]
+		],
+		[
+			64719.1011235955,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			64719.5168539326,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			70112.5168539326,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			72724.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.018, 0.036"]
+			]
+		],
+		[
+			72808.1573033708,
+			[
+				["Camera Zoom", "0.77, 32", "expoOut, nll"]
+			]
+		],
+		[
+			75505.5168539326,
+			[
+				["Focus Camera", "dad, 320, -100", "expoOut, 32"]
+			]
+		],
+		[
+			75505.6179775281,
+			[
+				["Camera Zoom", "0.49, 32", "expoOut, nll"]
+			]
+		],
+		[
+			76516.1573033708,
+			[
+				["Camera Zoom", "0.5075, 16", "expoOut, nll"]
+			]
+		],
+		[
+			78202.1573033708,
+			[
+				["Camera Zoom", "0.525, 16", "expoOut, nll"]
+			]
+		],
+		[
+			79213.1573033708,
+			[
+				["Camera Zoom", "0.5425, 16", "expoOut, nll"]
+			]
+		],
+		[
+			80898.1573033708,
+			[
+				["Camera Zoom", "0.56, 16", "expoOut, nll"]
+			]
+		],
+		[
+			81910.1573033708,
+			[
+				["Camera Zoom", "0.5775, 16", "expoOut, nll"]
+			]
+		],
+		[
+			83595.1573033708,
+			[
+				["Camera Zoom", "0.595, 16", "expoOut, nll"]
+			]
+		],
+		[
+			84606.1573033708,
+			[
+				["Camera Zoom", "0.6125, 16", "expoOut, nll"]
+			]
+		],
+		[
+			85617.1573033708,
+			[
+				["Camera Zoom", "0.63, 16", "expoOut, nll"]
+			]
+		],
+		[
+			86207.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.021, 0.042"]
+			]
+		],
+		[
+			86292.1348314607,
+			[
+				["Camera Zoom", "0.7, 16", "expoOut, nll"]
+			]
+		],
+		[
+			86292.6292134831,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			87640.1573033708,
+			[
+				["Camera Zoom", "0.721, 16", "expoOut, nll"]
+			]
+		],
+		[
+			88988.1573033708,
+			[
+				["Camera Zoom", "0.742, 16", "expoOut, nll"]
+			]
+		],
+		[
+			89662.1573033708,
+			[
+				["Camera Zoom", "0.763, 16", "expoOut, nll"]
+			]
+		],
+		[
+			90337.1573033708,
+			[
+				["Camera Zoom", "0.784, 16", "expoOut, nll"]
+			]
+		],
+		[
+			91685.1573033708,
+			[
+				["Camera Zoom", "0.805, 16", "expoOut, nll"]
+			]
+		],
+		[
+			93033.1573033708,
+			[
+				["Camera Zoom", "0.819, 16", "expoOut, nll"]
+			]
+		],
+		[
+			94382.1573033708,
+			[
+				["Camera Zoom", "0.84, 16", "expoOut, nll"]
+			]
+		],
+		[
+			95646.7191011236,
+			[
+				["Camera Module Bop", "2, beat, 0", "0.0225, 0.045"]
+			]
+		],
+		[
+			95730.1573033708,
+			[
+				["Camera Zoom", "0.861, 16", "expoOut, nll"]
+			]
+		],
+		[
+			96404.1573033708,
+			[
+				["Camera Zoom", "0.84, 16", "expoOut, nll"]
+			]
+		],
+		[
+			96994.7191011236,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.018, 0.036"]
+			]
+		],
+		[
+			97078.5168539326,
+			[
+				["Focus Camera", "dad, 320, -100", "expoOut, 32"]
+			]
+		],
+		[
+			97078.6516853933,
+			[
+				["Camera Zoom", "0.56, 32", "expoOut, nll"]
+			]
+		],
+		[
+			99775.1573033708,
+			[
+				["Camera Zoom", "0.595, 32", "expoOut, nll"]
+			]
+		],
+		[
+			102387.719101124,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.021, 0.042"]
+			]
+		],
+		[
+			102471.157303371,
+			[
+				["Camera Zoom", "0.63, 32", "expoOut, nll"]
+			]
+		],
+		[
+			105168.516853933,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			105168.539325843,
+			[
+				["Camera Zoom", "0.665, 16", "expoOut, nll"]
+			]
+		],
+		[
+			105505.157303371,
+			[
+				["Camera Zoom", "0.686, 16", "expoOut, nll"]
+			]
+		],
+		[
+			105842.157303371,
+			[
+				["Camera Zoom", "0.707, 16", "expoOut, nll"]
+			]
+		],
+		[
+			106432.719101124,
+			[
+				["Camera Module Bop", "2, beat, 0", "0.021, 0.042"]
+			]
+		],
+		[
+			106516.157303371,
+			[
+				["Camera Zoom", "0.728, 16", "expoOut, nll"]
+			]
+		],
+		[
+			107528.157303371,
+			[
+				["Camera Zoom", "0.7, 16", "expoOut, nll"]
+			]
+		],
+		[
+			107780.719101124,
+			[
+				["Camera Module Bop", "1, beat, 0", "0.018, 0.036"]
+			]
+		],
+		[
+			107865.168539326,
+			[
+				["Camera Zoom", "0.63, 32", "expoOut, nll"]
+			]
+		],
+		[
+			107865.516853933,
+			[
+				["Focus Camera", "dad, 320, -100", "expoOut, 32"]
+			]
+		],
+		[
+			110730.337078652,
+			[
+				["Camera Zoom", "0.665, 32", "expoOut, nll"]
+			]
+		],
+		[
+			110730.516853933,
+			[
+				["Focus Camera", "bf, 0, 0", "expoOut, 32"]
+			]
+		],
+		[
+			111235.157303371,
+			[
+				["Camera Zoom", "0.686, 16", "expoOut, nll"]
+			]
+		],
+		[
+			111910.157303371,
+			[
+				["Camera Zoom", "0.707, 16", "expoOut, nll"]
+			]
+		],
+		[
+			112584.157303371,
+			[
+				["Camera Zoom", "0.728, 16", "expoOut, nll"]
+			]
+		],
+		[
+			113258.426966292,
+			[
+				["Camera Zoom", "0.63, 32", "expoOut, nll"]
+			]
+		],
+		[
+			113258.516853933,
+			[
+				["Focus Camera", "dad, 320, -100", "expoOut, 32"]
+			]
+		],
+		[
+			115870.719101124,
+			[
+				["Camera Module Bop", "2, beat, 0", "0.015, 0.03"]
+			]
+		],
+		[
+			115912.168539326,
+			[
+				["Play Animation", "hehPrettyGood", "dad", "true"]
+			]
+		],
+		[
+			115955.157303371,
+			[
+				["Camera Zoom", "0.665, 32", "expoOut, nll"]
+			]
+		],
+		[
+			117303.157303371,
+			[
+				["Camera Zoom", "0.7, 32", "expoOut, nll"]
+			]
+		],
+		[
+			118651.516853933,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			118651.685393258,
+			[
+				["Camera Zoom", "0.84, 32", "expoOut, nll"]
+			]
+		],
+		[
+			118820.719101124,
+			[
+				["Camera Module Bop", "1, beat, 0", "0, 0"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

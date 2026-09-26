@@ -1,0 +1,8 @@
+function tankIco(tagStupid:String) {
+    switch (tagStupid) {
+        case 'anim':
+            changeIcon('tankman', 2);
+        case 'knife':
+            changeIcon('tankman-bloody', 2);
+    }
+}
